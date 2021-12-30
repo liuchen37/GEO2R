@@ -4,6 +4,7 @@ GEO2R is a built-in tool in GEO (Gene Expression Omnibus). It compares the expre
 
 [Instruction](https://www.ncbi.nlm.nih.gov/geo/info/geo2r.html)
 
-| --- |
+
 | GEO Accession |
+| --- |
 | [GSE114944](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114944)|
